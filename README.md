@@ -1,4 +1,4 @@
-# Mathias’s dotfiles  CRAIG
+# Mathias’s dotfiles  CRAIG/KEVIN
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
